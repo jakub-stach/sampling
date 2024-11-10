@@ -16,30 +16,34 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
-```
-write your answer here...
+``` 
+The survey aims to gather insights on factors contributing to high turnover by gauging employee satisfaction and their perceptions of workplace culture and benefits. 
+By exploring these sentiments, we can identify potential organizational improvements to retain staff and lower hiring costs.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: all employees at the organization.
+Sampling frame: list of all employees at the organization.
+Sampling units: the employees selected to answer the survey based on the list of all employees in the organization.
+Observationl units: the individual employee respondents to the survey.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Overall, I would rate my current workplace satisfaction as... <Likert scale>
+2. Overall, I would rate my colleagues' satisfaction as... <Likert scale>
+3. According to my colleagues, they would rate COMPANY culture promotes worklife balance as <Likert Scale>
+4. My colleagues think that the pay of our entry-level staff is competetive <Y/N>
+5. COMPANY provides a lot of opportunities for internal growth <Y/N>
+6. I would describe my career level as <Entry/Mid/Senior>
+7. My colleagues would describe the company as an equitable organization <Likert Scale>
+8. Those who have left COMPANY do so to <Seek better pay/go to more prestigious employers/move up in their career/escape company>
+9. My colleagues level of confidence that COMPANY will continue to be a successful organization 5 years from now is <Likert Scale>
+10. My colleagues would rate the COMPANY's leadership as being sensitive to staff concerns <Likert Scale>
 ```
 
 ## Rubric
