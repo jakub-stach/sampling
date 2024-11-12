@@ -10,7 +10,7 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Jakub Stach
 
 ```
 The initial population is 1000 individuals subdivided into 200 at weddings and 800 at brunches as in the blogpost. The author then uses np.random.choice to randomly select 10% of the individuals to be infected (i.e. the attack rate), they then use np.random.rand to randomly trace the infected based on trace_success which has a 20% success rate - this shows. They then do use value_counts and conditional indexing to do trigger secondary contact tracing The stages are infecting individuals, primary contact tracing, secondary contact tracing, and then simulating different iterations of the test.
