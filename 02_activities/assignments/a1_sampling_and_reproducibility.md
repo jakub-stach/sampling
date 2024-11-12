@@ -10,10 +10,16 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Jakub Stach
 
 ```
-Please write your explanation here...
+The initial population is 1000 individuals subdivided into 200 at weddings and 800 at brunches as in the blogpost. The author then uses np.random.choice to randomly select 10% of the individuals to be infected (i.e. the attack rate), they then use np.random.rand to randomly trace the infected based on trace_success which has a 20% success rate - this shows. They then do use value_counts and conditional indexing to do trigger secondary contact tracing The stages are infecting individuals, primary contact tracing, secondary contact tracing, and then simulating different iterations of the test.
+
+I initially had issues getting to the images in the blog post (wasn't loading despite trying 2 different browsers then eventually loaded after locating the individual post in the larger blog) but my graphs seem to match the general pattern of the blog post, roughly. The smoothness and variability is similar to the blog post but the exact distributions vary slightly which makes sense given that there's a bit of random sampling happenign througout. The 1000 iterations the variability increases which makes for a more blocky visual but this is explained by the fact that we have less data/information to normalize the distribution.
+
+The code has been altered and set with a random seed so that results are reproducible. 
+
+My results are saved as Figure_1 from the 50k run and Figure_2 from the 1k run.
 
 ```
 
