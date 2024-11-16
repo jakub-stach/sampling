@@ -4,19 +4,41 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    My sample is likely to be representative, assuming that all employees ahve an equal opportunity to aprticipate, using an SRS approach will help minimize the selection bias.
+    Some concerns about the survey being nonrepresentative could be if certain employee groups (especially ones like entry level who we're trying to understand better) do not respond then the results will be skewed to those who do respond, there's also concern that employees might be responding based on the perceived risk of being identified and retaliated against (hopefully this is mitigated by focusing the questions on what others think).
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    There's always room for improvement, here's my original list:
+
+1. Overall, I would rate my current workplace satisfaction as... <Likert scale>
+2. Overall, I would rate my colleagues' satisfaction as... <Likert scale>
+3. According to my colleagues, they would rate COMPANY culture promotes worklife balance as <Likert Scale>
+4. My colleagues think that the pay of our entry-level staff is competetive <Y/N>
+5. COMPANY provides a lot of opportunities for internal growth <Y/N>
+6. I would describe my career level as <Entry/Mid/Senior>
+7. My colleagues would describe the company as an equitable organization <Likert Scale>
+8. Those who have left COMPANY do so to <Seek better pay/go to more prestigious employers/move up in their career/escape company>
+9. My colleagues level of confidence that COMPANY will continue to be a successful organization 5 years from now is <Likert Scale>
+10. My colleagues would rate the COMPANY's leadership as being sensitive to staff concerns <Likert Scale>
+
+Changes:
+3. My colleagues would rate COMPANY culture that promotes worklife balance as <Likert scale>
+        Reasoning for change: Clariy, keeping in style with the rest of my questions.
+4. My colleagues woudl rate the competetiveness of our entry-level staff as <Likert scale>
+        Reasoning for change: More informative/fine-grained information than binary.
+5. COMPANY supports the development of staff and provides opportunities for internal growth <Likert scale>
+        Reasoning for change: More informative/fine-grained information than binary.
+8. Those who have left COMPANY do so to <Seek better pay/go to more prestigious employers/move up in their career/escape company/text field>**allow for multiple selections.
+        Reasoning for change: The reasons could be multifaceted, and giving them the opportunity to enter text could provide novel insights that the survey designers failed to identify. 
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    I think that the purpose of the survey could be fulfilled through an observational study but ideally an observational study could be done in conjunction with the survey to gain a deeper understanding of the situations (as opposed to just interpreting one set of results in a vacuum). Analyzing existing documentation on employee exit information and identifying trends could point to reasons why staff are leaving. One major benefit of the observational study approach is that it is non-intrusive and can happen in the background without adding the possible undue pressure of a survey on the employees. On the other hand, employing a survey could provide us with data that would otherwise be inaccessible to the investigators (employee perceptions,and feelings) whilst also working with information that employees have explicitly consented to sharing with the investigators/researchers by completing the surveys (as opposed to a semi-tacit consent that the employees would have given when signing onboarding paperwork).
     ```
 
 ## Why am I doing this assignment?
